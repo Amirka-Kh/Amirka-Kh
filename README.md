@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Amir%2C+a+fullstack+developer+and+environmental+lover+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-    💼 MS student @ UI on Software Engineering track, BSC at Cyber Security.
-    💻 Specialized in app programming and experienced in mobile development.
-    📖 Good at data engineering, parsing, and web application development.
+    💼 MS student @ UI on Software Engineering track, BSC at CS.
+    💻 Specialized in app programming and experienced in mobile dev.
+    📖 Good at data engineering, parsing, and web application dev.
     🍗 Foodie who loves Chicken, Red Fish, and all things Meat.
     🍩 Cinnamon lover. Also, a connoisseur of Cake and Cookie.
     🏃‍♂️ Enjoys running, exercising, watching movies, and crafting.
